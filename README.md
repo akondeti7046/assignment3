@@ -1,5 +1,5 @@
 
-# ================================================================
+
 #  Assignment 3 – Deep Q-Learning (DQN) on Atari Pong
 #  Course: CSCN8020 – Reinforcement Learning Programming
 #  Student: Adhitya Kondeti
@@ -24,8 +24,7 @@
 #             AutoROM
 #      2. Run training:
 #             python pong_dqn.py
-#
-# ================================================================
+
 
 
 
